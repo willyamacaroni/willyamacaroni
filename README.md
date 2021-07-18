@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finding an internship and studying full time at Cégep Garneau
+- 🔭 I’m currently an intern @ Coveo and studying full time at Cégep Garneau
 
 
 - 🌱 I’m currently learning Django, AWS, Linux, Mobile developpement.  
